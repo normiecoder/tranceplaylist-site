@@ -1,0 +1,10 @@
+﻿# Antigravity & Agent directories
+.antigravity/
+.agent/
+.agents/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
